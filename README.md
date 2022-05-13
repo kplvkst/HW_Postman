@@ -11,16 +11,16 @@ Port: 5005
 EP_1
 Method: GET
 EndPoint: /get_method
-request url params: 
+request url params:
  name: str
  age: int
-
-response: 
-[
-    “Str”,
-    “Str”
-]
-
+ 
+ response:
+ [
+     “Str”,
+     “Str”
+     ]
+     
 ==================
 
 EP_2
